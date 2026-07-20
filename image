@@ -1,0 +1,9 @@
+st.markdown(
+"""
+# 📊 Project FORESIGHT
+
+### AI Powered Demand Forecasting & Inventory Intelligence
+
+---
+"""
+)
