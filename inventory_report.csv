@@ -1,0 +1,4 @@
+Medicine,Current_Stock,Forecast,Status,Recommendation
+M01AB,20,35,Stockout Risk,Reorder
+M01AE,120,30,Overstock,Discount
+N02BA,50,45,Healthy,No Action
